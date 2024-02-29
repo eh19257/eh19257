@@ -1,12 +1,55 @@
-Hello! I'm Karl and welcome to my repo - look around and don't steal anything!
+Hello! I'm Karl and welcome to my repo. All of the code here is a collection some uni projects alongside personal projects. Have a gander at whatever you want and don't steal anything!
 
-- 👋 Hi, I’m @eh19257
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I'm generally interested in deep learning, computer architecture, and cyber security but if anything interests me then I'll have a good look into it.
 
-<!---
-eh19257/eh19257 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+If you wanna reach me for any reason then email me at: karlsachs@protonmail.com. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I am also open to bribes :)
